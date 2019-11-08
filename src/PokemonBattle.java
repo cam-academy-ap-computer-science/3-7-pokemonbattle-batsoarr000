@@ -10,10 +10,13 @@ import java.util.*;
 public class PokemonBattle {
 	static Scanner userInput = new Scanner(System.in);
 	public static void main(String[] args) {
+		//activates battlestart and sets name
 		String pokename = battlestart();
 		System.out.println();
+		//runs damage, while inputing name
 		double HP = damage(pokename);
 		System.out.println();
+		//inputs name and ending HP
 		statsTable(pokename, HP);
 
 	}
