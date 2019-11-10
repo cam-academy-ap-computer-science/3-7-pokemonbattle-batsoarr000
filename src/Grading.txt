@@ -1,0 +1,21 @@
+
+10 pts - Correct Output (must compile and run)
+8/10 Should use the Scanner class to read input from the user instead of hardcoded the values for the following variables:
+STAB,Base,Defense ,Attack,Level, and HP. Should display the hardcoded/entered values on the console window.
+		
+
+5 pts - Proper Use of Scanner, and decent User Interface
+5/5 statsTable method, should use tab character (\t) instead spaces. See P.16, table 1.3
+
+3 pts - Proper Use of Return
+3/3
+
+3 pts - Proper User of Parameter
+3/3
+
+2 pts - Pseudocode and comments
+2/2
+
+2 pts - Consistent Layout and Style following Style Guidelines
+1/2 because the declaration of variable names are not consistent. Sometime it is all lowercase like pokename and sometime it is all uppercase like HP.
+Should use Ctrl + Shift + f to format the code to make it easy to read.
